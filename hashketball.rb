@@ -123,7 +123,7 @@ def game_hash
     ]
   }
 }
-pp game_hash
+return game_hash
 end
 
 
